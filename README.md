@@ -13,6 +13,8 @@ Cómo Ejecutar el Análisis
 
 1. Requisitos Previos: Recomendamos descargar la data junto al notebook y ejecutarlos dentro de un IDE o google colab.
 2. Instrucciones de Ejecución: Ejecutar la data reporte_ventas.csv. dento del cuaderno Supermarket_sales_analysis.ipynb, luego verificar si las librerias necesarias estan siendo importadas y proceda a encender las celdas en orden.
+
+
 Problema de Negocio:
 
 
