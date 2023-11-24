@@ -63,12 +63,14 @@ Resultado: Se presenta un análisis detallado del total de ventas con valor nega
 Estructura del Repositorio
 
 - ` Supermarket_sales_analysis.ipynb`: Contiene el notebook para el análisis.
-- `data/`: Almacena conjuntos de datos relevantes.
+- `reporte_ventas.csv`: Almacena conjuntos de datos relevantes.
 - `README.md`: Documentación principal que presenta el proyecto, el problema de negocio, las preguntas clave y los resultados.
 
 Cómo Ejecutar el Análisis
 
-1. Requisitos Previos: Detalla cualquier software, bibliotecas o configuraciones necesarias para ejecutar los notebooks.
-2. Instrucciones de Ejecución: Explica los pasos necesarios para reproducir el análisis y obtener los mismos resultados.
+1. Requisitos Previos: Recomendamos descargar la data junto al notebook y ejecutarlos dentro de un IDE o google colab.
+2. Instrucciones de Ejecución: Ejecutar la data reporte_ventas.csv. dento del cuaderno Supermarket_sales_analysis.ipynb, luego verificar si las librerias necesarias estan siendo importadas y proceda a encender las celdas en orden.
 
-Conclusiones y Recomendaciones:
+Conclusiones:
+
+########################################
