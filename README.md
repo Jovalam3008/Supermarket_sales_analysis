@@ -64,7 +64,7 @@ Estructura del Repositorio
 
 - ` Supermarket_sales_analysis.ipynb`: Contiene el notebook para el análisis.
 - `reporte_ventas.csv`: Almacena conjuntos de datos relevantes.
-- `README.md`: Documentación principal que presenta el proyecto, el problema de negocio, las preguntas clave y los resultados.
+- `README.md`: Documentación principal que presenta el proyecto, el problema de negocio, las preguntas clave , las instrucciones de ejecución y las conclusiones del análisis de datos.
 
 Cómo Ejecutar el Análisis
 
