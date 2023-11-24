@@ -1,8 +1,8 @@
 # Supermarket_sales_analysis
-Grupo 6 - Noviembre
-Autores : Jair ,José Valderrama 
 
 <h1 align="center"> Análisis de Ventas en Supermercados Online</h1>
+Grupo 6 - Noviembre
+Autores : Jair ,José Valderrama 
 Problema de Negocio:
 
 
