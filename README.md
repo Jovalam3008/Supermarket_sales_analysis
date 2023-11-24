@@ -4,7 +4,7 @@ Autores : Jair ,José Valderrama
 
 <h1 align="center"> Análisis de Ventas en Supermercados Online</h1>
 Problema de Negocio:
-![descripción de la imágen](URL de la imagen generada por el servicio de alojamiento o GitHub)
+
 
 Una cadena de Supermercados Online que opera en Brasil busca obtener insights sobre la venta de sus productos. 
 El objetivo es analizar los pedidos de los clientes y presentar gráficamente las respuestas a preguntas clave del negocio.
