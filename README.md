@@ -3,7 +3,16 @@
 <h1 align="center"> Análisis de Ventas en Supermercados Online</h1>
 
 
+Estructura del Repositorio
 
+- ` Supermarket_sales_analysis.ipynb`: Contiene el notebook para el análisis.
+- `reporte_ventas.csv`: Almacena conjuntos de datos relevantes.
+- `README.md`: Documentación principal que presenta el proyecto, el problema de negocio, las preguntas clave , las instrucciones de ejecución y las conclusiones del análisis de datos.
+
+Cómo Ejecutar el Análisis
+
+1. Requisitos Previos: Recomendamos descargar la data junto al notebook y ejecutarlos dentro de un IDE o google colab.
+2. Instrucciones de Ejecución: Ejecutar la data reporte_ventas.csv. dento del cuaderno Supermarket_sales_analysis.ipynb, luego verificar si las librerias necesarias estan siendo importadas y proceda a encender las celdas en orden.
 Problema de Negocio:
 
 
