@@ -11,17 +11,20 @@ El objetivo es analizar los pedidos de los clientes y presentar gráficamente la
 
 Preguntas de Negocio:
 
-1. Ventas Totales por Año\n
+1. Ventas Totales por Año
+   
 •	Pregunta: ¿Cuáles son las ventas totales por año?
 •	Objetivo: Identificar el rendimiento anual de las ventas.
 •	Resultado: Se presenta una visualización de las ventas totales por año, destacando el año con mejor desempeño.
 
 2. Productos Más Rentables.
+   
 •	Pregunta: ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el período?
 •	Objetivo: Identificar los productos más rentables.
 •	Resultado: Se presenta una lista de los 7 productos que generaron mayores ganancias.
 
 3. Ventas por Región y Año
+
 •	Pregunta: Si separamos las ventas totales por año y por regiones, ¿qué insight podemos obtener de nuestras ventas?
 •	Objetivo: Analizar las ventas por año y región para obtener insights adicionales.
 •	Resultado: Se presentan visualizaciones que muestran las ventas totales por año y por región, proporcionando insights sobre el rendimiento regional y temporal.
