@@ -2,7 +2,7 @@
 Grupo 6 - Noviembre
 Autores : Jair ,José Valderrama 
 
-Análisis de Ventas en Supermercados Online
+<h1 align="center"> Análisis de Ventas en Supermercados Online</h1>
 Problema de Negocio
 
 Una cadena de Supermercados Online que opera en Brasil busca obtener insights sobre la venta de sus productos. 
