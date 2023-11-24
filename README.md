@@ -62,9 +62,8 @@ Resultado: Se presenta un análisis detallado del total de ventas con valor nega
 
 Estructura del Repositorio
 
-- `notebooks/`: Contiene los notebooks utilizados para el análisis.
+- ` Supermarket_sales_analysis.ipynb`: Contiene el notebook para el análisis.
 - `data/`: Almacena conjuntos de datos relevantes.
-- `images/`: Guarda imágenes y gráficos generados durante el análisis.
 - `README.md`: Documentación principal que presenta el proyecto, el problema de negocio, las preguntas clave y los resultados.
 
 Cómo Ejecutar el Análisis
