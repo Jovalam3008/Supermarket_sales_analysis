@@ -11,7 +11,7 @@ El objetivo es analizar los pedidos de los clientes y presentar gráficamente la
 
 Preguntas de Negocio:
 
-1. Ventas Totales por Año
+1. Ventas Totales por Año\n
 •	Pregunta: ¿Cuáles son las ventas totales por año?
 •	Objetivo: Identificar el rendimiento anual de las ventas.
 •	Resultado: Se presenta una visualización de las ventas totales por año, destacando el año con mejor desempeño.
